@@ -1,0 +1,53 @@
+Pedals that can be built from a generalized dual opamp pcb I designed
+
+Utility:
+Buffer
+Dry/Wet Mixer
+Splitter
+
+Pre-Amps
+Piezo Preamp (for acoustics)
+Any generally needed preamp- with or without some tone controls
+DOD Overdrive Preamp 250 Reissue
+
+
+Overdrive/distortion/boost - any typical opamp, clipping, etc.
+(no tone controls, only gain controls etc)
+Runoffgroove Mockman
+Maxon OD880 Overdrive / Soft Distortion
+Mad professor Sweet Honey overdrive 
+
+(with tone controls modds) (the fewer the knobs, the easier...)
+Timmy
+opamp-big muff (eg EHX '77)
+Pumpkin Pi (modded big muff to sound like smashing pumpkins)
+cornish ss-2/ss-3 (think modded muff...)
+Fulltone OCD
+Lovepedal Kalamazoo
+FYA Scream Queen Overdrive
+Carl Martin Heavy Drive
+Demeter Fuzzulator
+The Tone God Blade
+Tech21 XXL
+Guvnor
+Frantone Cream Puff
+Suhr Riot Distortion
+The Quantumn Mystic (Black Mystic)
+
+
+Blues Breaker 
+JHS Morning Glory (modded BB)
+Wampler Pantheon (modded BB, more switches for gain/tone)
+Prince of Tone ('improved' blues breaker)
+King of Tone (2x prince of Tone)
+
+(requires additional vero for inputs output transistors, tone modds)
+ts808/TS9
+Keeley PSI 
+Fulltone Fulldrive
+Wampler Panteon
+
+
+(Requires additional power boosing chip or module)
+Earthquaker Devices Plumes
+Providence Stampede SOV-2

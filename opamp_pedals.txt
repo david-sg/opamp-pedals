@@ -1,4 +1,4 @@
-Pedals that can be built from a generalized dual opamp pcb I designed
+Pedals that can be built from the dual opamp pcb
 
 Utility:
 Buffer
@@ -33,10 +33,17 @@ Guvnor
 Frantone Cream Puff
 Suhr Riot Distortion
 The Quantumn Mystic (Black Mystic)
+Marshall Shredmaster (Aion Solstice)
+Mad Professor Sky Blue OD (pedalpcb skylight overdrive)
+JHS Angry Charlie v3 (Angry Charles)
+JHS Andy Timmons Drive (Angry Andy)
+Mojo Hand FX Rook (Bastion Overdrive)
+Mid-Fi Demo Tape Fuzz (B-Side Fuzz)
 
 
 Blues Breaker 
 JHS Morning Glory (modded BB)
+Mr Black BB-74x
 Wampler Pantheon (modded BB, more switches for gain/tone)
 Prince of Tone ('improved' blues breaker)
 King of Tone (2x prince of Tone)
@@ -45,9 +52,10 @@ King of Tone (2x prince of Tone)
 ts808/TS9
 Keeley PSI 
 Fulltone Fulldrive
-Wampler Panteon
-
+J.Rockett The Dude (Abider Overdrive)
+Fulltone Secret Freq (Arcana Distortion)
+JHS AT+ (Angry Andy Plus)
 
 (Requires additional power boosing chip or module)
-Earthquaker Devices Plumes
+Earthquaker Devices Plumes (Greengage Overdrive)
 Providence Stampede SOV-2
